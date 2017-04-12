@@ -1,0 +1,10 @@
+mysql-python
+redis
+logging
+json
+Cookie
+urllib2
+cookielib
+itertools
+urllib
+ConfigParser
